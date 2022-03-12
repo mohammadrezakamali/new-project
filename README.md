@@ -17,3 +17,5 @@ Features
 3-play by giving the coordinates of the hous
 4-play with WASD
 5-you can use Flag
+
+I hope to play and enjoy it :)
